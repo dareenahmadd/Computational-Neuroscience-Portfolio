@@ -93,10 +93,12 @@ NeuralNetworks-CW1/
 
 ### Running the Code
 
-Open MATLAB and navigate to the directory containing IncrementalBackpropagation.m.
+Open MATLAB and navigate to the directory containing
+[IncrementalBackpropagation.m](IncrementalBackpropagation.m).
 
 Run the function from the MATLAB Command Window:
 
+```matlab
 IncrementalBackpropagation
 
 The program displays the initial weights, hidden-unit activations, network outputs, error signals, weight changes, and updated weights for both training examples.
