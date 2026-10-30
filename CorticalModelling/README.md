@@ -43,3 +43,27 @@ The model's behaviour was investigated using:
 - Numerical approximations of nullclines.
 - Identification of candidate fixed-point regions.
 - Animated visualisations of neural population activity.
+
+## Key Findings
+
+### Input Bias and Decision Probability
+
+Increasing the external input favouring Population 1 increased the proportion of trials in which that population reached the decision threshold first.
+
+By adjusting the external input currents, the model was used to investigate conditions targeting approximately 50%, 60%, 80%, and 100% Population 1 decisions.
+
+### Input Bias and Decision Time
+
+Greater differences between external input currents were associated with shorter mean decision times for Population 1.
+
+An additional post-assessment analysis fitted an exponential decay function to the relationship between input current difference and mean decision time.
+
+### Neural Population Competition
+
+Simulated trajectories demonstrated competitive dynamics between the two neural populations. Activity in the winning population increased towards the decision threshold, while activity in the competing population was suppressed.
+
+### Phase-Plane Dynamics
+
+Phase-plane trajectories illustrated how the network evolved through state space during decision formation.
+
+Numerical approximations of the nullclines were used to explore regions where the rates of change in population activity approached zero, providing insight into potential equilibrium states.
