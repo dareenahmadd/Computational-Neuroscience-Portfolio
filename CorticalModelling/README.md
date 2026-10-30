@@ -124,4 +124,4 @@ Selected figures illustrating the model’s behaviour and principal findings.
 
 ### Numerical Nullclines
 
-![Numerical nullclines](Figures/nullclines.png)
+![Numerical nullclines](Figures/numerical_nullclines.png)
