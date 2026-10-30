@@ -1,6 +1,6 @@
-### Cortical Modelling: Neural Decision-Making Network
+## Cortical Modelling: Neural Decision-Making Network
 
-## Overview
+### Overview
 
 This project implements a stochastic, two-population neural rate model to investigate the computational dynamics of decision-making.
 
