@@ -98,3 +98,30 @@ Selected figures illustrating the model’s behaviour and principal findings.
 * Dynamical systems and phase-plane analysis
 * Nonlinear model fitting and optimisation
 * Scientific data visualisation
+
+
+## Results and Visualisations
+
+### Neural Population Trajectories
+
+![Neural population trajectories](Figures/neural_trajectories.png)
+
+### Input Bias and Decision Probability
+
+![Decision probability](Figures/choice_probability.png)
+
+### Input Bias and Decision Time
+
+![Decision times](Figures/decision_times.png)
+
+### Nonlinear Model Fitting
+
+![Exponential fit](Figures/nonlinear_fit.png)
+
+### Phase-Plane Analysis
+
+![Phase-plane trajectory](Figures/phase_plane.png)
+
+### Numerical Nullclines
+
+![Numerical nullclines](Figures/nullclines.png)
