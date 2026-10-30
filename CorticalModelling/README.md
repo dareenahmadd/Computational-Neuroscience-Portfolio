@@ -67,3 +67,34 @@ Simulated trajectories demonstrated competitive dynamics between the two neural 
 Phase-plane trajectories illustrated how the network evolved through state space during decision formation.
 
 Numerical approximations of the nullclines were used to explore regions where the rates of change in population activity approached zero, providing insight into potential equilibrium states.
+
+
+### Limitations
+
+The model incorporates stochastic Gaussian noise, meaning that decision probabilities and decision times may vary between simulation runs.
+
+Although the primary decision analyses use an activity threshold of 0.5, simulations terminate when either population reaches 0.63. Consequently, decision times recorded at the simulation termination threshold should be distinguished from first-crossing times at 0.5.
+
+The nonlinear exponential fit was based on four simulation-derived summary observations and should therefore be interpreted as an exploratory, descriptive analysis rather than definitive evidence of an exponential relationship.
+
+Numerical nullclines were approximated using a discrete state-space grid. Their intersections indicate potential equilibrium locations but do not independently establish the stability of these states.
+
+### Project Structure
+
+CorticalModelling.m
+
+MATLAB script containing the neural network simulations, decision probability and decision-time analyses, nonlinear model fitting, phase-plane analysis, numerical nullcline approximations, and animated visualisations.
+
+### figures/
+
+Selected figures illustrating the model’s behaviour and principal findings.
+
+### Skills Demonstrated
+
+* MATLAB programming
+* Computational modelling of neural decision-making
+* Stochastic neural network simulation
+* Numerical integration using the Euler method
+* Dynamical systems and phase-plane analysis
+* Nonlinear model fitting and optimisation
+* Scientific data visualisation
