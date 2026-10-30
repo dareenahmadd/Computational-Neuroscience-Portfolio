@@ -74,12 +74,6 @@ The network processes only two training examples in a single pass. Consequently,
 
 The network architecture and initial weights are predefined to reproduce the coursework calculations.
 
-### Project Structure
-
-NeuralNetworks-CW1/
-├── IncrementalBackpropagation.m
-└── README.md
-
 ### Skills Demonstrated
 
 * MATLAB programming
