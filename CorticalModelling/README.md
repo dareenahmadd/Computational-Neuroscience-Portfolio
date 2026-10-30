@@ -118,6 +118,9 @@ Selected figures illustrating the model’s behaviour and principal findings.
 
 ![Exponential fit](Figures/nonlinear_fit.png)
 
+### Numerical Nullclines
+
+![Numerical nullclines](Figures/numerical_nullclines.png)
 
 ### Phase-Plane Analysis
 
